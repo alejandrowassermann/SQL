@@ -23,3 +23,34 @@ CREATE TABLE [Actions] (
     event_time timestamp NOT NULL, 
     CONSTRAINT PK_Action PRIMARY KEY (user_id,event_time)
 );
+
+
+-- Table Name :  Sessions
+-- Fields : user_id, session_start_timestamp, session_duration
+-- Example value :            
+-- 12345       2019-08-01 10:20:33     600
+
+CREATE TABLE [Actions] (
+    user_id int NOT NULL FOREIGN KEY REFERENCES [User](user_id),
+    session_duration int NOT NULL,
+    session_start_timestamp timestamp NOT NULL, 
+    CONSTRAINT PK_Session PRIMARY KEY (user_id,session_start_timestamp)
+);
+
+
+-- Table Name :  Location
+-- Fields : user_id, country, state, city
+-- Example value :            
+-- 12345       USA     California      Los Angeles
+
+CREATE TABLE [Location] (
+    user_id int NOT NULL PRIMARY KEY FOREIGN KEY REFERENCES [User](user_id),
+    country varchar(255) NOT NULL,
+    state varchar(255) NOT NULL,
+    city varchar(255) NOT NULL
+    
+        CONSTRAINT PK_Session PRIMARY KEY (user_id,session_start_timestamp)
+);
+
+
+

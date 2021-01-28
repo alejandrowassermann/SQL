@@ -1,0 +1,1001 @@
+user_id,country,state,city
+1,United States,Oklahoma,Norman
+2,United States,Georgia,Norcross
+3,United States,South Dakota,Sioux Falls
+4,United States,District of Columbia,Washington
+5,United States,New York,Albany
+6,United States,Arizona,Phoenix
+7,United States,Louisiana,New Orleans
+8,United States,Oklahoma,Tulsa
+9,United States,New York,Brooklyn
+10,United States,Alabama,Montgomery
+11,United States,Arizona,Phoenix
+12,United States,North Carolina,Charlotte
+13,United States,District of Columbia,Washington
+14,United States,Missouri,Kansas City
+15,United States,Hawaii,Honolulu
+16,United States,New York,New York City
+17,United States,Arkansas,Little Rock
+18,United States,Michigan,Detroit
+19,United States,New Mexico,Albuquerque
+20,United States,Arkansas,Fort Smith
+21,United States,Ohio,Dayton
+22,United States,Florida,Pensacola
+23,United States,Georgia,Duluth
+24,United States,Minnesota,Saint Paul
+25,United States,Illinois,Evanston
+26,United States,Florida,Fort Pierce
+27,United States,Texas,Austin
+28,United States,Missouri,Columbia
+29,United States,Florida,Tallahassee
+30,United States,Arizona,Phoenix
+31,United States,New York,Albany
+32,United States,North Carolina,Charlotte
+33,United States,Texas,San Antonio
+34,United States,District of Columbia,Washington
+35,United States,New York,Elmira
+36,United States,Virginia,Reston
+37,United States,Louisiana,Monroe
+38,United States,Florida,Miami
+39,United States,Texas,Irving
+40,United States,New York,Rochester
+41,United States,Nevada,Las Vegas
+42,United States,New Mexico,Albuquerque
+43,United States,California,San Jose
+44,United States,Ohio,Columbus
+45,United States,Ohio,Akron
+46,United States,Iowa,Des Moines
+47,United States,Indiana,Indianapolis
+48,United States,Texas,San Angelo
+49,United States,Maryland,Frederick
+50,United States,Louisiana,New Orleans
+51,United States,Wisconsin,Milwaukee
+52,United States,New York,New Hyde Park
+53,United States,Arizona,Scottsdale
+54,United States,Oregon,Portland
+55,United States,Texas,Dallas
+56,United States,Tennessee,Knoxville
+57,United States,Ohio,Columbus
+58,United States,Connecticut,Hartford
+59,United States,California,San Jose
+60,United States,Washington,Tacoma
+61,United States,Hawaii,Honolulu
+62,United States,Alabama,Birmingham
+63,United States,Wisconsin,Madison
+64,United States,California,Santa Monica
+65,United States,Texas,Houston
+66,United States,Mississippi,Hattiesburg
+67,United States,Washington,Spokane
+68,United States,Texas,Midland
+69,United States,South Carolina,Spartanburg
+70,United States,Indiana,Indianapolis
+71,United States,New York,New York City
+72,United States,Missouri,Kansas City
+73,United States,California,Inglewood
+74,United States,District of Columbia,Washington
+75,United States,Indiana,South Bend
+76,United States,Tennessee,Memphis
+77,United States,Pennsylvania,Levittown
+78,United States,Texas,San Antonio
+79,United States,New York,Schenectady
+80,United States,Virginia,Richmond
+81,United States,Louisiana,Baton Rouge
+82,United States,Texas,Dallas
+83,United States,Minnesota,Minneapolis
+84,United States,Arizona,Phoenix
+85,United States,Washington,Seattle
+86,United States,Florida,Boca Raton
+87,United States,Pennsylvania,Philadelphia
+88,United States,Tennessee,Memphis
+89,United States,New York,New York City
+90,United States,Florida,Miami
+91,United States,California,Los Angeles
+92,United States,Virginia,Richmond
+93,United States,Utah,Ogden
+94,United States,Connecticut,Stamford
+95,United States,Oklahoma,Oklahoma City
+96,United States,Louisiana,New Orleans
+97,United States,Georgia,Columbus
+98,United States,California,San Bernardino
+99,United States,Florida,Jacksonville
+100,United States,Delaware,Wilmington
+101,United States,Massachusetts,Boston
+102,United States,New Mexico,Albuquerque
+103,United States,Arizona,Phoenix
+104,United States,Delaware,Newark
+105,United States,Maryland,Baltimore
+106,United States,California,Corona
+107,United States,Iowa,Des Moines
+108,United States,Texas,Fort Worth
+109,United States,Massachusetts,Boston
+110,United States,Florida,Pinellas Park
+111,United States,Texas,San Antonio
+112,United States,Alabama,Huntsville
+113,United States,Florida,Saint Petersburg
+114,United States,Texas,Pasadena
+115,United States,Ohio,Youngstown
+116,United States,California,Anaheim
+117,United States,Tennessee,Nashville
+118,United States,Florida,Clearwater
+119,United States,Ohio,Cleveland
+120,United States,Pennsylvania,Pittsburgh
+121,United States,Illinois,Champaign
+122,United States,Alaska,Anchorage
+123,United States,Florida,Brooksville
+124,United States,District of Columbia,Washington
+125,United States,Oklahoma,Oklahoma City
+126,United States,California,Pasadena
+127,United States,Virginia,Arlington
+128,United States,California,San Diego
+129,United States,Washington,Tacoma
+130,United States,Texas,Houston
+131,United States,Ohio,Toledo
+132,United States,Florida,Pompano Beach
+133,United States,Montana,Billings
+134,United States,Florida,Tampa
+135,United States,Texas,El Paso
+136,United States,Indiana,Gary
+137,United States,Georgia,Atlanta
+138,United States,Louisiana,New Orleans
+139,United States,Florida,Pensacola
+140,United States,Florida,Tallahassee
+141,United States,Tennessee,Nashville
+142,United States,Pennsylvania,Philadelphia
+143,United States,Pennsylvania,Pittsburgh
+144,United States,Alaska,Juneau
+145,United States,Louisiana,New Orleans
+146,United States,Missouri,Kansas City
+147,United States,Florida,West Palm Beach
+148,United States,Missouri,Columbia
+149,United States,Illinois,Rockford
+150,United States,Oklahoma,Oklahoma City
+151,United States,Iowa,Des Moines
+152,United States,Georgia,Marietta
+153,United States,Florida,Miami
+154,United States,Virginia,Norfolk
+155,United States,Nebraska,Lincoln
+156,United States,Texas,Austin
+157,United States,Florida,Lakeland
+158,United States,Kansas,Topeka
+159,United States,Florida,Orlando
+160,United States,Texas,Corpus Christi
+161,United States,Florida,Port Charlotte
+162,United States,Florida,Pompano Beach
+163,United States,Texas,Irving
+164,United States,Florida,Boynton Beach
+165,United States,Colorado,Denver
+166,United States,Georgia,Atlanta
+167,United States,California,Santa Cruz
+168,United States,California,Van Nuys
+169,United States,Idaho,Boise
+170,United States,Pennsylvania,Pittsburgh
+171,United States,Texas,Odessa
+172,United States,Connecticut,Stamford
+173,United States,California,Whittier
+174,United States,Michigan,Detroit
+175,United States,District of Columbia,Washington
+176,United States,Pennsylvania,Philadelphia
+177,United States,Texas,San Antonio
+178,United States,Florida,Fort Lauderdale
+179,United States,New York,Brooklyn
+180,United States,Kentucky,Louisville
+181,United States,Maryland,Bethesda
+182,United States,Mississippi,Meridian
+183,United States,New York,New York City
+184,United States,Louisiana,New Orleans
+185,United States,Texas,Houston
+186,United States,Ohio,Youngstown
+187,United States,North Carolina,Winston Salem
+188,United States,Nevada,Reno
+189,United States,Oregon,Portland
+190,United States,Texas,San Antonio
+191,United States,Ohio,Cincinnati
+192,United States,California,Los Angeles
+193,United States,Nebraska,Lincoln
+194,United States,Maryland,Bethesda
+195,United States,Florida,Orlando
+196,United States,Louisiana,Baton Rouge
+197,United States,Louisiana,Lafayette
+198,United States,Ohio,Cincinnati
+199,United States,Texas,Katy
+200,United States,West Virginia,Huntington
+201,United States,Kentucky,Louisville
+202,United States,Texas,Houston
+203,United States,Kansas,Wichita
+204,United States,Idaho,Idaho Falls
+205,United States,Florida,Boca Raton
+206,United States,Kentucky,Lexington
+207,United States,California,Modesto
+208,United States,New York,Albany
+209,United States,New York,Buffalo
+210,United States,Texas,Houston
+211,United States,Texas,Waco
+212,United States,District of Columbia,Washington
+213,United States,Georgia,Atlanta
+214,United States,Pennsylvania,Johnstown
+215,United States,New York,Mount Vernon
+216,United States,New York,New York City
+217,United States,District of Columbia,Washington
+218,United States,Tennessee,Kingsport
+219,United States,New York,Brooklyn
+220,United States,Illinois,Chicago
+221,United States,Ohio,Hamilton
+222,United States,Washington,Seattle
+223,United States,Louisiana,New Orleans
+224,United States,Florida,Jacksonville
+225,United States,Florida,Naples
+226,United States,New Jersey,Jersey City
+227,United States,West Virginia,Huntington
+228,United States,Kentucky,Frankfort
+229,United States,California,Irvine
+230,United States,North Carolina,Asheville
+231,United States,Louisiana,Shreveport
+232,United States,California,Irvine
+233,United States,Texas,El Paso
+234,United States,California,Sacramento
+235,United States,Virginia,Chesapeake
+236,United States,California,San Diego
+237,United States,California,San Diego
+238,United States,California,Fresno
+239,United States,Minnesota,Maple Plain
+240,United States,California,Pasadena
+241,United States,Louisiana,Shreveport
+242,United States,Nevada,Las Vegas
+243,United States,Oregon,Portland
+244,United States,Texas,Garland
+245,United States,Texas,El Paso
+246,United States,Massachusetts,Lynn
+247,United States,Oregon,Salem
+248,United States,California,San Diego
+249,United States,Pennsylvania,Pittsburgh
+250,United States,Indiana,Evansville
+251,United States,District of Columbia,Washington
+252,United States,Pennsylvania,Wilkes Barre
+253,United States,Pennsylvania,Philadelphia
+254,United States,Texas,Austin
+255,United States,Illinois,Springfield
+256,United States,Ohio,Columbus
+257,United States,Texas,Dallas
+258,United States,Pennsylvania,Pittsburgh
+259,United States,North Carolina,Charlotte
+260,United States,Ohio,Toledo
+261,United States,Pennsylvania,Scranton
+262,United States,California,Alhambra
+263,United States,New Mexico,Albuquerque
+264,United States,South Carolina,Aiken
+265,United States,Florida,Clearwater
+266,United States,Louisiana,Baton Rouge
+267,United States,Pennsylvania,Wilkes Barre
+268,United States,Texas,Longview
+269,United States,Colorado,Aurora
+270,United States,Illinois,Chicago
+271,United States,Oregon,Portland
+272,United States,Utah,Salt Lake City
+273,United States,Florida,Orlando
+274,United States,Pennsylvania,Philadelphia
+275,United States,California,Brea
+276,United States,Illinois,Springfield
+277,United States,Nebraska,Lincoln
+278,United States,District of Columbia,Washington
+279,United States,Tennessee,Memphis
+280,United States,Ohio,Dayton
+281,United States,California,Long Beach
+282,United States,Virginia,Alexandria
+283,United States,Illinois,Chicago
+284,United States,California,Los Angeles
+285,United States,Nevada,North Las Vegas
+286,United States,California,Riverside
+287,United States,Texas,Round Rock
+288,United States,Hawaii,Honolulu
+289,United States,Tennessee,Chattanooga
+290,United States,Florida,Jacksonville
+291,United States,Kansas,Shawnee Mission
+292,United States,Texas,El Paso
+293,United States,Texas,Dallas
+294,United States,California,Berkeley
+295,United States,Utah,Salt Lake City
+296,United States,West Virginia,Charleston
+297,United States,Colorado,Denver
+298,United States,Ohio,Toledo
+299,United States,Delaware,Newark
+300,United States,Alabama,Mobile
+301,United States,Nevada,North Las Vegas
+302,United States,Alaska,Fairbanks
+303,United States,Florida,Hialeah
+304,United States,Maryland,Gaithersburg
+305,United States,North Carolina,Winston Salem
+306,United States,Colorado,Littleton
+307,United States,New Hampshire,Portsmouth
+308,United States,Washington,Olympia
+309,United States,California,Torrance
+310,United States,New York,New York City
+311,United States,Louisiana,Lafayette
+312,United States,Alabama,Gadsden
+313,United States,Idaho,Boise
+314,United States,Kansas,Wichita
+315,United States,Indiana,Indianapolis
+316,United States,New York,Rochester
+317,United States,Florida,Gainesville
+318,United States,Illinois,Chicago
+319,United States,Colorado,Fort Collins
+320,United States,Texas,Waco
+321,United States,Massachusetts,Brockton
+322,United States,Texas,Dallas
+323,United States,Ohio,Cleveland
+324,United States,Nevada,Reno
+325,United States,District of Columbia,Washington
+326,United States,Florida,Fort Pierce
+327,United States,Minnesota,Saint Cloud
+328,United States,Florida,Miami
+329,United States,Ohio,Dayton
+330,United States,Michigan,Flint
+331,United States,New York,New York City
+332,United States,Texas,Houston
+333,United States,California,Long Beach
+334,United States,Arkansas,Little Rock
+335,United States,Illinois,Peoria
+336,United States,Arizona,Tucson
+337,United States,Texas,El Paso
+338,United States,Delaware,Newark
+339,United States,Connecticut,New Haven
+340,United States,Delaware,Newark
+341,United States,Nevada,Las Vegas
+342,United States,South Carolina,Spartanburg
+343,United States,Missouri,Independence
+344,United States,Arizona,Phoenix
+345,United States,Florida,Clearwater
+346,United States,Oklahoma,Norman
+347,United States,Minnesota,Young America
+348,United States,Alabama,Birmingham
+349,United States,Illinois,Chicago
+350,United States,Michigan,Lansing
+351,United States,California,Sacramento
+352,United States,Georgia,Atlanta
+353,United States,Pennsylvania,Lancaster
+354,United States,Washington,Seattle
+355,United States,New Jersey,Trenton
+356,United States,Kansas,Topeka
+357,United States,Virginia,Arlington
+358,United States,California,Long Beach
+359,United States,District of Columbia,Washington
+360,United States,North Carolina,Charlotte
+361,United States,Texas,Lubbock
+362,United States,Utah,Salt Lake City
+363,United States,Tennessee,Memphis
+364,United States,Tennessee,Knoxville
+365,United States,Texas,Waco
+366,United States,Pennsylvania,Philadelphia
+367,United States,Michigan,Warren
+368,United States,Nebraska,Lincoln
+369,United States,Texas,Houston
+370,United States,Oklahoma,Oklahoma City
+371,United States,Texas,Corpus Christi
+372,United States,Tennessee,Memphis
+373,United States,North Carolina,Charlotte
+374,United States,Ohio,Cincinnati
+375,United States,Hawaii,Honolulu
+376,United States,California,Long Beach
+377,United States,Nevada,Reno
+378,United States,Oklahoma,Tulsa
+379,United States,West Virginia,Charleston
+380,United States,Minnesota,Saint Paul
+381,United States,Minnesota,Monticello
+382,United States,Ohio,Cleveland
+383,United States,Michigan,Lansing
+384,United States,District of Columbia,Washington
+385,United States,Pennsylvania,Harrisburg
+386,United States,Washington,Olympia
+387,United States,California,Stockton
+388,United States,Alabama,Montgomery
+389,United States,California,Modesto
+390,United States,Nevada,Sparks
+391,United States,Florida,Fort Lauderdale
+392,United States,Wisconsin,Milwaukee
+393,United States,Louisiana,Monroe
+394,United States,Georgia,Atlanta
+395,United States,Arizona,Tucson
+396,United States,Indiana,Evansville
+397,United States,California,San Jose
+398,United States,West Virginia,Huntington
+399,United States,Florida,Fort Lauderdale
+400,United States,Washington,Spokane
+401,United States,Louisiana,Lake Charles
+402,United States,Texas,Houston
+403,United States,Missouri,Columbia
+404,United States,Florida,Delray Beach
+405,United States,Florida,Naples
+406,United States,Minnesota,Minneapolis
+407,United States,New York,Jamaica
+408,United States,Kentucky,London
+409,United States,Washington,Tacoma
+410,United States,Florida,Fort Lauderdale
+411,United States,Maryland,Silver Spring
+412,United States,Texas,Houston
+413,United States,Alabama,Mobile
+414,United States,District of Columbia,Washington
+415,United States,Georgia,Macon
+416,United States,Indiana,Terre Haute
+417,United States,Texas,Garland
+418,United States,Missouri,Saint Joseph
+419,United States,Wisconsin,Madison
+420,United States,Indiana,Indianapolis
+421,United States,Iowa,Des Moines
+422,United States,Indiana,Indianapolis
+423,United States,North Carolina,Durham
+424,United States,Pennsylvania,Pittsburgh
+425,United States,Colorado,Denver
+426,United States,Nebraska,Omaha
+427,United States,California,Whittier
+428,United States,Florida,Fort Myers
+429,United States,California,Sacramento
+430,United States,Florida,Fort Pierce
+431,United States,Washington,Seattle
+432,United States,Alaska,Fairbanks
+433,United States,Florida,Port Charlotte
+434,United States,New York,Jamaica
+435,United States,Texas,San Antonio
+436,United States,Louisiana,Lake Charles
+437,United States,California,Long Beach
+438,United States,Louisiana,Baton Rouge
+439,United States,District of Columbia,Washington
+440,United States,California,Oakland
+441,United States,Virginia,Richmond
+442,United States,Michigan,Lansing
+443,United States,Texas,El Paso
+444,United States,New York,Syracuse
+445,United States,Washington,Tacoma
+446,United States,Texas,San Antonio
+447,United States,Pennsylvania,York
+448,United States,Texas,Houston
+449,United States,Connecticut,Hartford
+450,United States,California,Palo Alto
+451,United States,Tennessee,Memphis
+452,United States,Florida,Lakeland
+453,United States,California,San Diego
+454,United States,Texas,Killeen
+455,United States,Missouri,Saint Louis
+456,United States,District of Columbia,Washington
+457,United States,Pennsylvania,Philadelphia
+458,United States,Michigan,Grand Rapids
+459,United States,Georgia,Atlanta
+460,United States,Texas,El Paso
+461,United States,Ohio,Cleveland
+462,United States,Nevada,Reno
+463,United States,California,Anaheim
+464,United States,Florida,West Palm Beach
+465,United States,Alabama,Montgomery
+466,United States,Ohio,Lima
+467,United States,California,San Diego
+468,United States,Ohio,Cincinnati
+469,United States,North Carolina,Greensboro
+470,United States,New York,Rochester
+471,United States,Florida,Miami
+472,United States,Colorado,Denver
+473,United States,North Carolina,Charlotte
+474,United States,Alabama,Birmingham
+475,United States,Mississippi,Jackson
+476,United States,New York,Mount Vernon
+477,United States,Georgia,Macon
+478,United States,Hawaii,Honolulu
+479,United States,Kansas,Kansas City
+480,United States,Ohio,Toledo
+481,United States,California,Fresno
+482,United States,Missouri,Kansas City
+483,United States,Iowa,Davenport
+484,United States,Illinois,Peoria
+485,United States,Mississippi,Hattiesburg
+486,United States,New Hampshire,Manchester
+487,United States,Kansas,Topeka
+488,United States,Massachusetts,Newton
+489,United States,Washington,Tacoma
+490,United States,California,Torrance
+491,United States,District of Columbia,Washington
+492,United States,Georgia,Savannah
+493,United States,Illinois,Peoria
+494,United States,Texas,Houston
+495,United States,Florida,Miami
+496,United States,Alabama,Montgomery
+497,United States,California,San Diego
+498,United States,South Carolina,Spartanburg
+499,United States,Texas,Houston
+500,United States,California,Los Angeles
+501,United States,Nevada,Reno
+502,United States,District of Columbia,Washington
+503,United States,Georgia,Macon
+504,United States,New York,Jamaica
+505,United States,California,Pasadena
+506,United States,Georgia,Decatur
+507,United States,Alabama,Huntsville
+508,United States,California,Sacramento
+509,United States,Indiana,South Bend
+510,United States,Virginia,Roanoke
+511,United States,Tennessee,Chattanooga
+512,United States,Missouri,Kansas City
+513,United States,Virginia,Richmond
+514,United States,New York,Buffalo
+515,United States,Virginia,Reston
+516,United States,Washington,Seattle
+517,United States,Idaho,Boise
+518,United States,Illinois,Springfield
+519,United States,Oklahoma,Oklahoma City
+520,United States,Virginia,Vienna
+521,United States,New Mexico,Albuquerque
+522,United States,Texas,Austin
+523,United States,Ohio,Cleveland
+524,United States,Connecticut,Norwalk
+525,United States,Connecticut,New Haven
+526,United States,Indiana,Terre Haute
+527,United States,Oklahoma,Oklahoma City
+528,United States,New York,Jamaica
+529,United States,Arkansas,Little Rock
+530,United States,California,Modesto
+531,United States,New Jersey,Newark
+532,United States,California,Escondido
+533,United States,Virginia,Reston
+534,United States,Georgia,Macon
+535,United States,California,Long Beach
+536,United States,California,Fresno
+537,United States,Nevada,Las Vegas
+538,United States,Georgia,Cumming
+539,United States,Minnesota,Saint Paul
+540,United States,Florida,Delray Beach
+541,United States,Tennessee,Knoxville
+542,United States,New York,Syracuse
+543,United States,Ohio,Mansfield
+544,United States,Florida,Clearwater
+545,United States,Georgia,Atlanta
+546,United States,New York,Brooklyn
+547,United States,Illinois,Chicago
+548,United States,California,Long Beach
+549,United States,Indiana,Fort Wayne
+550,United States,Delaware,Wilmington
+551,United States,Alabama,Mobile
+552,United States,Georgia,Augusta
+553,United States,Ohio,Hamilton
+554,United States,Texas,College Station
+555,United States,Illinois,Chicago
+556,United States,Florida,Saint Petersburg
+557,United States,Virginia,Arlington
+558,United States,New York,White Plains
+559,United States,Georgia,Columbus
+560,United States,California,Pasadena
+561,United States,Hawaii,Honolulu
+562,United States,Florida,Tampa
+563,United States,Florida,Orlando
+564,United States,Florida,Boca Raton
+565,United States,Texas,San Antonio
+566,United States,Kansas,Wichita
+567,United States,Texas,San Antonio
+568,United States,California,San Diego
+569,United States,Texas,Dallas
+570,United States,Massachusetts,Watertown
+571,United States,Wisconsin,Milwaukee
+572,United States,District of Columbia,Washington
+573,United States,Arizona,Phoenix
+574,United States,Virginia,Ashburn
+575,United States,Ohio,Dayton
+576,United States,Maryland,Annapolis
+577,United States,Texas,El Paso
+578,United States,Florida,Miami
+579,United States,Texas,El Paso
+580,United States,California,Stockton
+581,United States,Indiana,South Bend
+582,United States,Virginia,Chesapeake
+583,United States,Minnesota,Saint Paul
+584,United States,Minnesota,Saint Paul
+585,United States,California,Fresno
+586,United States,Washington,Tacoma
+587,United States,Kentucky,Lexington
+588,United States,West Virginia,Charleston
+589,United States,California,Los Angeles
+590,United States,Texas,Houston
+591,United States,Georgia,Atlanta
+592,United States,Florida,Saint Petersburg
+593,United States,Louisiana,Baton Rouge
+594,United States,Colorado,Denver
+595,United States,Colorado,Denver
+596,United States,Washington,Tacoma
+597,United States,Tennessee,Memphis
+598,United States,Connecticut,Norwalk
+599,United States,Oklahoma,Tulsa
+600,United States,Illinois,Evanston
+601,United States,Arizona,Tucson
+602,United States,Alabama,Huntsville
+603,United States,Nevada,Las Vegas
+604,United States,Minnesota,Saint Paul
+605,United States,Georgia,Atlanta
+606,United States,Florida,West Palm Beach
+607,United States,Texas,Odessa
+608,United States,Missouri,Kansas City
+609,United States,Texas,Dallas
+610,United States,Florida,Sarasota
+611,United States,Indiana,South Bend
+612,United States,New York,Brooklyn
+613,United States,Massachusetts,Worcester
+614,United States,Oklahoma,Tulsa
+615,United States,Mississippi,Hattiesburg
+616,United States,Illinois,Peoria
+617,United States,Indiana,Evansville
+618,United States,Florida,Tallahassee
+619,United States,Oregon,Portland
+620,United States,Louisiana,New Orleans
+621,United States,Colorado,Aurora
+622,United States,Michigan,Lansing
+623,United States,New York,Rochester
+624,United States,Colorado,Denver
+625,United States,Washington,Seattle
+626,United States,Missouri,Kansas City
+627,United States,Arizona,Mesa
+628,United States,Florida,Fort Myers
+629,United States,Idaho,Boise
+630,United States,Tennessee,Memphis
+631,United States,Georgia,Atlanta
+632,United States,Florida,Orlando
+633,United States,Texas,Houston
+634,United States,Florida,Orlando
+635,United States,South Carolina,Greenville
+636,United States,Texas,Dallas
+637,United States,Pennsylvania,Pittsburgh
+638,United States,Florida,Bradenton
+639,United States,Virginia,Alexandria
+640,United States,California,Irvine
+641,United States,Wisconsin,Madison
+642,United States,Maryland,Baltimore
+643,United States,California,San Jose
+644,United States,California,Pasadena
+645,United States,District of Columbia,Washington
+646,United States,Tennessee,Memphis
+647,United States,Washington,Tacoma
+648,United States,Louisiana,Baton Rouge
+649,United States,California,Chula Vista
+650,United States,Georgia,Atlanta
+651,United States,Washington,Kent
+652,United States,California,San Diego
+653,United States,California,Fresno
+654,United States,Virginia,Norfolk
+655,United States,Alaska,Anchorage
+656,United States,Pennsylvania,Valley Forge
+657,United States,California,Oceanside
+658,United States,Ohio,Canton
+659,United States,Texas,Corpus Christi
+660,United States,Utah,Ogden
+661,United States,Connecticut,Hartford
+662,United States,Florida,Seminole
+663,United States,Ohio,Cincinnati
+664,United States,Illinois,Naperville
+665,United States,Nebraska,Omaha
+666,United States,Texas,Lubbock
+667,United States,Texas,El Paso
+668,United States,Florida,Miami
+669,United States,New York,Buffalo
+670,United States,Minnesota,Minneapolis
+671,United States,Delaware,Wilmington
+672,United States,Texas,Austin
+673,United States,California,San Francisco
+674,United States,New Mexico,Albuquerque
+675,United States,Alabama,Tuscaloosa
+676,United States,Illinois,Peoria
+677,United States,Illinois,Chicago
+678,United States,Illinois,Chicago
+679,United States,Florida,Fort Myers
+680,United States,Georgia,Savannah
+681,United States,Tennessee,Memphis
+682,United States,Michigan,Lansing
+683,United States,California,Orange
+684,United States,Florida,Miami
+685,United States,Illinois,Champaign
+686,United States,Georgia,Savannah
+687,United States,Texas,San Antonio
+688,United States,Florida,Saint Petersburg
+689,United States,New York,New York City
+690,United States,Florida,Lake Worth
+691,United States,Nevada,Las Vegas
+692,United States,New York,New York City
+693,United States,Florida,Fort Lauderdale
+694,United States,New Jersey,Camden
+695,United States,Georgia,Albany
+696,United States,Arizona,Phoenix
+697,United States,Virginia,Fairfax
+698,United States,Hawaii,Honolulu
+699,United States,Texas,Houston
+700,United States,North Carolina,Wilmington
+701,United States,Colorado,Denver
+702,United States,Pennsylvania,Pittsburgh
+703,United States,Pennsylvania,Pittsburgh
+704,United States,Ohio,Columbus
+705,United States,New York,Syracuse
+706,United States,Michigan,Kalamazoo
+707,United States,Colorado,Denver
+708,United States,North Carolina,Raleigh
+709,United States,Florida,Orlando
+710,United States,New York,New York City
+711,United States,New York,Albany
+712,United States,Illinois,Chicago
+713,United States,Oregon,Portland
+714,United States,California,Newport Beach
+715,United States,Louisiana,New Orleans
+716,United States,Florida,Fort Pierce
+717,United States,New York,New York City
+718,United States,Illinois,Chicago
+719,United States,New York,Elmira
+720,United States,South Carolina,Greenville
+721,United States,South Dakota,Sioux Falls
+722,United States,District of Columbia,Washington
+723,United States,Minnesota,Minneapolis
+724,United States,Alabama,Mobile
+725,United States,Iowa,Des Moines
+726,United States,Pennsylvania,Pittsburgh
+727,United States,District of Columbia,Washington
+728,United States,Missouri,Jefferson City
+729,United States,Tennessee,Memphis
+730,United States,New York,New York City
+731,United States,Nebraska,Lincoln
+732,United States,Florida,Naples
+733,United States,Ohio,Cleveland
+734,United States,Florida,Fort Myers
+735,United States,California,Richmond
+736,United States,Louisiana,New Orleans
+737,United States,Pennsylvania,Lancaster
+738,United States,New York,Rochester
+739,United States,Florida,Seminole
+740,United States,Nevada,Las Vegas
+741,United States,Texas,Amarillo
+742,United States,New York,New York City
+743,United States,Minnesota,Minneapolis
+744,United States,District of Columbia,Washington
+745,United States,Texas,Lubbock
+746,United States,West Virginia,Charleston
+747,United States,New York,Rochester
+748,United States,Massachusetts,Brockton
+749,United States,California,Los Angeles
+750,United States,Massachusetts,Springfield
+751,United States,Ohio,Toledo
+752,United States,Kentucky,Louisville
+753,United States,District of Columbia,Washington
+754,United States,Texas,Waco
+755,United States,Massachusetts,Springfield
+756,United States,Virginia,Vienna
+757,United States,Minnesota,Saint Paul
+758,United States,Pennsylvania,Pittsburgh
+759,United States,Texas,Galveston
+760,United States,Georgia,Atlanta
+761,United States,Oklahoma,Oklahoma City
+762,United States,North Carolina,Gastonia
+763,United States,Oklahoma,Oklahoma City
+764,United States,California,San Jose
+765,United States,District of Columbia,Washington
+766,United States,Massachusetts,Newton
+767,United States,Tennessee,Kingsport
+768,United States,Texas,Abilene
+769,United States,Louisiana,Baton Rouge
+770,United States,Florida,Jacksonville
+771,United States,Arkansas,Little Rock
+772,United States,California,Oceanside
+773,United States,District of Columbia,Washington
+774,United States,South Dakota,Sioux Falls
+775,United States,Texas,Huntsville
+776,United States,California,Santa Ana
+777,United States,Massachusetts,Lynn
+778,United States,Minnesota,Saint Paul
+779,United States,California,Sacramento
+780,United States,Iowa,Des Moines
+781,United States,Texas,Plano
+782,United States,Michigan,Lansing
+783,United States,Virginia,Roanoke
+784,United States,Michigan,Ann Arbor
+785,United States,North Carolina,Charlotte
+786,United States,Florida,Panama City
+787,United States,Illinois,East Saint Louis
+788,United States,Texas,Houston
+789,United States,Illinois,Joliet
+790,United States,California,San Francisco
+791,United States,California,Petaluma
+792,United States,Arizona,Scottsdale
+793,United States,Texas,Austin
+794,United States,Washington,Tacoma
+795,United States,Florida,Lehigh Acres
+796,United States,New York,Jamaica
+797,United States,Pennsylvania,Philadelphia
+798,United States,Wisconsin,Milwaukee
+799,United States,Minnesota,Young America
+800,United States,Louisiana,Shreveport
+801,United States,Illinois,Chicago
+802,United States,North Carolina,Winston Salem
+803,United States,Georgia,Columbus
+804,United States,District of Columbia,Washington
+805,United States,North Carolina,Wilmington
+806,United States,Virginia,Lynchburg
+807,United States,Iowa,Waterloo
+808,United States,New York,New York City
+809,United States,Pennsylvania,Erie
+810,United States,Illinois,Chicago
+811,United States,New York,New York City
+812,United States,North Carolina,Greensboro
+813,United States,Minnesota,Saint Paul
+814,United States,Wyoming,Cheyenne
+815,United States,Washington,Seattle
+816,United States,Texas,Dallas
+817,United States,Louisiana,Monroe
+818,United States,Pennsylvania,Erie
+819,United States,Texas,Dallas
+820,United States,Arizona,Tucson
+821,United States,Florida,Tampa
+822,United States,California,Stockton
+823,United States,Texas,Amarillo
+824,United States,Connecticut,Stamford
+825,United States,Arizona,Phoenix
+826,United States,New Mexico,Albuquerque
+827,United States,Alabama,Birmingham
+828,United States,Wisconsin,Milwaukee
+829,United States,Florida,Hollywood
+830,United States,Texas,Houston
+831,United States,Texas,Dallas
+832,United States,Florida,Cape Coral
+833,United States,Texas,El Paso
+834,United States,Colorado,Boulder
+835,United States,Georgia,Atlanta
+836,United States,Colorado,Colorado Springs
+837,United States,Ohio,Hamilton
+838,United States,Illinois,Peoria
+839,United States,West Virginia,Huntington
+840,United States,Montana,Missoula
+841,United States,District of Columbia,Washington
+842,United States,Arizona,Mesa
+843,United States,California,San Francisco
+844,United States,Colorado,Colorado Springs
+845,United States,New York,Albany
+846,United States,Connecticut,West Hartford
+847,United States,Texas,Dallas
+848,United States,Alabama,Mobile
+849,United States,California,Long Beach
+850,United States,California,Santa Barbara
+851,United States,Pennsylvania,Pittsburgh
+852,United States,California,Fresno
+853,United States,Missouri,Saint Louis
+854,United States,Georgia,Columbus
+855,United States,North Carolina,Raleigh
+856,United States,California,Riverside
+857,United States,Illinois,Chicago
+858,United States,Indiana,Indianapolis
+859,United States,Indiana,South Bend
+860,United States,New York,Rochester
+861,United States,Massachusetts,Worcester
+862,United States,Florida,Fort Myers
+863,United States,California,Los Angeles
+864,United States,Minnesota,Minneapolis
+865,United States,California,Los Angeles
+866,United States,Kansas,Kansas City
+867,United States,Michigan,Flint
+868,United States,Washington,Seattle
+869,United States,North Carolina,Charlotte
+870,United States,Washington,Tacoma
+871,United States,Delaware,Wilmington
+872,United States,North Carolina,Charlotte
+873,United States,North Carolina,Charlotte
+874,United States,Washington,Spokane
+875,United States,Texas,Houston
+876,United States,Texas,Austin
+877,United States,Nevada,Henderson
+878,United States,Indiana,Indianapolis
+879,United States,Florida,Fort Pierce
+880,United States,Nevada,Las Vegas
+881,United States,Oregon,Portland
+882,United States,District of Columbia,Washington
+883,United States,Pennsylvania,Philadelphia
+884,United States,New Jersey,New Brunswick
+885,United States,Connecticut,Hartford
+886,United States,Texas,San Antonio
+887,United States,Florida,Fort Myers
+888,United States,Mississippi,Jackson
+889,United States,District of Columbia,Washington
+890,United States,Nevada,North Las Vegas
+891,United States,Kentucky,Louisville
+892,United States,Maryland,Bowie
+893,United States,Ohio,Youngstown
+894,United States,Connecticut,Hartford
+895,United States,Utah,Salt Lake City
+896,United States,California,San Francisco
+897,United States,Indiana,South Bend
+898,United States,California,Sacramento
+899,United States,California,Santa Ana
+900,United States,California,Sacramento
+901,United States,Massachusetts,Worcester
+902,United States,Washington,Seattle
+903,United States,Ohio,Canton
+904,United States,New York,New York City
+905,United States,Texas,San Antonio
+906,United States,New Jersey,Trenton
+907,United States,Virginia,Falls Church
+908,United States,Texas,Fort Worth
+909,United States,Indiana,South Bend
+910,United States,Wisconsin,Appleton
+911,United States,California,San Mateo
+912,United States,Iowa,Waterloo
+913,United States,Alabama,Birmingham
+914,United States,Oklahoma,Oklahoma City
+915,United States,Kentucky,London
+916,United States,California,Santa Clara
+917,United States,Washington,Spokane
+918,United States,Indiana,Indianapolis
+919,United States,Ohio,Dayton
+920,United States,Indiana,Indianapolis
+921,United States,Indiana,Fort Wayne
+922,United States,Minnesota,Saint Paul
+923,United States,Michigan,Detroit
+924,United States,Louisiana,Baton Rouge
+925,United States,Arkansas,Little Rock
+926,United States,Florida,Orlando
+927,United States,Texas,Houston
+928,United States,New Jersey,Paterson
+929,United States,Georgia,Atlanta
+930,United States,Minnesota,Young America
+931,United States,Florida,North Port
+932,United States,Texas,El Paso
+933,United States,North Carolina,Gastonia
+934,United States,Colorado,Colorado Springs
+935,United States,Washington,Vancouver
+936,United States,Texas,El Paso
+937,United States,Florida,Homestead
+938,United States,Texas,Dallas
+939,United States,Georgia,Columbus
+940,United States,Alabama,Huntsville
+941,United States,Nevada,Reno
+942,United States,Ohio,Dayton
+943,United States,District of Columbia,Washington
+944,United States,Missouri,Saint Louis
+945,United States,Ohio,Cincinnati
+946,United States,Virginia,Fredericksburg
+947,United States,Texas,Killeen
+948,United States,Florida,Sarasota
+949,United States,Ohio,Dayton
+950,United States,Nevada,Las Vegas
+951,United States,North Carolina,Greensboro
+952,United States,Oklahoma,Tulsa
+953,United States,Florida,Port Saint Lucie
+954,United States,California,Fresno
+955,United States,Minnesota,Saint Paul
+956,United States,Massachusetts,Boston
+957,United States,Massachusetts,Watertown
+958,United States,Texas,Houston
+959,United States,Minnesota,Minneapolis
+960,United States,Virginia,Merrifield
+961,United States,California,Chico
+962,United States,Nebraska,Lincoln
+963,United States,California,Corona
+964,United States,Ohio,Springfield
+965,United States,New York,Albany
+966,United States,Indiana,Evansville
+967,United States,West Virginia,Huntington
+968,United States,Virginia,Richmond
+969,United States,New York,New York City
+970,United States,Florida,Miami
+971,United States,Oregon,Beaverton
+972,United States,Indiana,Bloomington
+973,United States,Connecticut,Hartford
+974,United States,Florida,Pensacola
+975,United States,Florida,Pensacola
+976,United States,Florida,Hollywood
+977,United States,Colorado,Littleton
+978,United States,Louisiana,New Orleans
+979,United States,Utah,Sandy
+980,United States,Ohio,Columbus
+981,United States,Texas,Houston
+982,United States,Wisconsin,Madison
+983,United States,Washington,Kent
+984,United States,Florida,Port Charlotte
+985,United States,District of Columbia,Washington
+986,United States,Texas,El Paso
+987,United States,Indiana,Anderson
+988,United States,California,San Luis Obispo
+989,United States,California,Modesto
+990,United States,Pennsylvania,Pittsburgh
+991,United States,North Carolina,Winston Salem
+992,United States,Illinois,Springfield
+993,United States,Minnesota,Minneapolis
+994,United States,Indiana,South Bend
+995,United States,Virginia,Richmond
+996,United States,Texas,San Antonio
+997,United States,Ohio,Toledo
+998,United States,Tennessee,Chattanooga
+999,United States,District of Columbia,Washington
+1000,United States,Colorado,Colorado Springs

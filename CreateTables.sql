@@ -6,7 +6,7 @@
 CREATE TABLE [User] (
     user_id int NOT NULL PRIMARY KEY,
     name varchar(255) NOT NULL,
-    created_at_timestamp timestamp NOT NULL
+    created_at_timestamp datetime NOT NULL
     
 );
 
@@ -20,7 +20,7 @@ CREATE TABLE [User] (
 CREATE TABLE [Actions] (
     user_id int NOT NULL FOREIGN KEY REFERENCES [User](user_id),
     event varchar(255) NOT NULL,
-    event_time timestamp NOT NULL, 
+    event_time datetime NOT NULL, 
     CONSTRAINT PK_Action PRIMARY KEY (user_id,event_time)
 );
 
@@ -33,7 +33,7 @@ CREATE TABLE [Actions] (
 CREATE TABLE [Sessions] (
     user_id int NOT NULL FOREIGN KEY REFERENCES [User](user_id),
     session_duration int NOT NULL,
-    session_start_timestamp timestamp NOT NULL, 
+    session_start_timestamp datetime NOT NULL, 
     CONSTRAINT PK_Session PRIMARY KEY (user_id,session_start_timestamp)
 );
 

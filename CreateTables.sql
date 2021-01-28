@@ -30,7 +30,7 @@ CREATE TABLE [Actions] (
 -- Example value :            
 -- 12345       2019-08-01 10:20:33     600
 
-CREATE TABLE [Actions] (
+CREATE TABLE [Sessions] (
     user_id int NOT NULL FOREIGN KEY REFERENCES [User](user_id),
     session_duration int NOT NULL,
     session_start_timestamp timestamp NOT NULL, 
@@ -48,8 +48,6 @@ CREATE TABLE [Location] (
     country varchar(255) NOT NULL,
     state varchar(255) NOT NULL,
     city varchar(255) NOT NULL
-    
-        CONSTRAINT PK_Session PRIMARY KEY (user_id,session_start_timestamp)
 );
 
 
